@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "776742834010",
+    "firebase_url": "https://kemical-konnect-hrms-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kemical-konnect-hrms",
+    "storage_bucket": "kemical-konnect-hrms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776742834010:android:138befd7a8aab602f9ad63",
+        "android_client_info": {
+          "package_name": "com.example.hrms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776742834010-268iqcr0t3buq4l5de34slt7pp73a6n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFCMmbdZg0SwrBo_GfxRoAwuDSKDkmyTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776742834010-268iqcr0t3buq4l5de34slt7pp73a6n9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776742834010-oe5vk4fjak1dd8pt67kdk9qt4fdmhqp7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hrmsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
